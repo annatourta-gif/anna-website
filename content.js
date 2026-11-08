@@ -10,7 +10,7 @@ window.SITE_CONTENT = {
   "role": "Project Manager",
   "tag": "PM",
   "location": "Athens, Greece",
-  "photo": "",
+  "photo": "assets/anna.jpg",
   "photoAlt": "Portrait of Anna Tourtoura",
   "profile": [
     "I'm a Project Manager at the National Centre for Scientific Research “Demokritos” (NCSRD), where I coordinate research and innovation projects in the Knowledge Management Unit.",
