@@ -1,6 +1,8 @@
 // ALL of Anna's website text lives here. Edit the values between the quotes.
 // Keep the commas, quotes and brackets as they are.
 window.SITE_CONTENT = {
+  "siteUrl": "https://annatourtoura.com",
+  "seoDescription": "Anna Tourtoura is a Project Manager at NCSR “Demokritos” in Athens, coordinating EU-funded research and innovation projects, with a background in strategic communication and law.",
   "name": {
     "first": "Anna",
     "last": "Tourtoura"
